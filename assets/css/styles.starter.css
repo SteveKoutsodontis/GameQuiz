@@ -1,0 +1,19 @@
+.hide {
+    display: none;
+}
+
+.scores {
+    display: inline
+}
+
+.timer {
+    display:inline;
+    right: 0;
+    position: absolute;
+    padding-right: 10px;
+}
+
+li {
+    list-style: none;
+}
+
