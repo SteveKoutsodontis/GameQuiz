@@ -4,44 +4,44 @@
 // Global variable for applicatoin state
 var questions = [
     {
-        text: "My code quiz question 1",
-        choices: ["user choice 1", 'user choice 2', "userchoice 3", "user's final choice"],
-        answer: "user choice 1"
+        text: "What is the middle of a hurricane called?",
+        choices: ["The epicenter", 'The enclave', "The eye", "The epiphone"],
+        answer: "The eye"
     },
     {
-        text: "My code quiz question 2",
-        choices: ["user choice 1", 'user choice 2', "userchoice 3", "user's final choice"],
-        answer: 'user choice 2'
+        text: "Which of the following paper towel brands is known as the quicker picker upper?",
+        choices: ["Bounty", 'Viva', "Charmin", "Scott"],
+        answer: 'Bounty'
     },
     {
-        text: "My code quiz question 3",
-        choices: ["user choice 1", 'user choice 2', "userchoice 3", "user's final choice"],
-        answer: "user choice 1"
+        text: "Which part of the water cycle makes clouds?",
+        choices: ["Evaporation", 'Condensation', "Precipitation", "Accumulation"],
+        answer: "Condensation"
     },
     {
-        text: "My code quiz question 4",
-        choices: ["user choice 1", 'user choice 2', "userchoice 3", "user's final choice"],
-        answer: "user choice 1"
+        text: "What color is a polar bear's skin?",
+        choices: ["White", 'Brown', "Black", "Blonde"],
+        answer: "Black"
     },
     {
-        text: "My code quiz question 1",
-        choices: ["user choice 1", 'user choice 2', "userchoice 3", "user's final choice"],
-        answer: "user choice 1"
+        text: "Who is the first woman to hold executive office in the United States?",
+        choices: ["Hillary Clinton", 'Sandra Day O Conner', "Condoleezza Rice", "Kamala Harris"],
+        answer: "Kamala Harris"
     },
     {
-        text: "My code quiz question 2",
-        choices: ["user choice 1", 'user choice 2', "userchoice 3", "user's final choice"],
-        answer: 'user choice 2'
+        text: "Fill in the blank to the title of this kids book by Eileen Christelow: ______ Little Monkeys Jumping on the Bed",
+        choices: ["Silly", 'Wild', "Five", "Nine"],
+        answer: 'Five'
     },
     {
-        text: "My code quiz question 3",
-        choices: ["user choice 1", 'user choice 2', "userchoice 3", "user's final choice"],
-        answer: "user choice 1"
+        text: "How many quarters are there in an NFL football game?",
+        choices: ["1", '2', "3", "4"],
+        answer: "4"
     },
     {
-        text: "My code quiz question 4",
-        choices: ["user choice 1", 'user choice 2', "userchoice 3", "user's final choice"],
-        answer: "user choice 1"
+        text: "If I were to give you a dollar, How many dimes would you have?",
+        choices: ["0", '10', "100", "1000"],
+        answer: "0"
     },
 ]
 
