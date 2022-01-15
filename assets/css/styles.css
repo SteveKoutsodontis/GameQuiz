@@ -1,6 +1,32 @@
+* {
+  background-color: #ccc;
+}
+h1{
+  color: #801212;
+}
+p {
+  color: #801212;
+}
+h2 {
+  padding-top: 20%;
+  color: rgb(58, 175, 112) ;
+}
+
+li {
+  color: #801212;
+  border-radius: 30px;
+  background-color:#ccc ;
+}
+
+.start {
+  text-align: center;
+  padding: 30%;
+}
+
 body {
   font-family: Arial;
-  font-size: 120%;
+  font-size: 200%;
+  text-align: center;
 }
 
 a {
@@ -18,16 +44,16 @@ button {
   margin: 5px;
   cursor: pointer;
   font-size: 100%;
-  background-color: #563d7c;
+  background-color: #656566;
   border-radius: 5px;
   padding: 2px 10px;
-  color: white;
+  color: rgb(58, 175, 112);
   border: 0;
   transition: background-color 0.1s;
 }
 
 button:hover {
-  background-color: #8570a5;
+  background-color: #801212;
 }
 
 .choices button {
